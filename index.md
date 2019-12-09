@@ -1,6 +1,4 @@
-# Professional Amateur
-
-## By Kiel Wells
+### By Kiel Wells
 
 An attempt to document things I find interesting/noteworthy.
 
