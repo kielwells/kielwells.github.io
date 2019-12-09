@@ -4,5 +4,7 @@ I am a person who spends too much time in my life reading about politics and pol
 
 Welcome, and hopefully it's worth your time.
 
+
+* [about](https://kielwells.com/about)
 * [twitter](https://twitter.com/kielwells)
 * [insta](https://instagram.com/kielwells)
