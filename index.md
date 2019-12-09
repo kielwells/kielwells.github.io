@@ -8,5 +8,5 @@ I am a person who spends too much time in my life reading about policy, but I’
 
 Welcome, and hopefully it's worth your time.
 
-*[twitter](https://twitter.com/kielwells)
-*[insta](https://instagram.com/kielwells)
+* [twitter](https://twitter.com/kielwells)
+* [insta](https://instagram.com/kielwells)
