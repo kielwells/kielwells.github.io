@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Initial Blog Post"
+title: Test Post
 ---
 
-# Test Post
+# Test Post!
 
-This is a pilot test of blog posting to see if I'm following the Jekyll format properly.
+Here's some test text for a test post.
