@@ -9,8 +9,8 @@ description: An outlet, by Kiel Wells
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Professional Amateur
-description: An outlet, by Kiel Wells
+title:
+description:
 github_username: kielwells
 
 # Email and twitter are optional:
