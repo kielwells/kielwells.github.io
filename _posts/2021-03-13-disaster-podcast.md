@@ -1,0 +1,5 @@
+# Engineering Disasters, and How to Avoid Them
+
+I've been listening semi-non-stop for the last couple of weeks to the podcast [Well There's Your Problem](https://www.youtube.com/channel/UCPxHg4192hLDpTI2w7F9rPg), and it is fascinating. You'll notice that link goes to a YouTube channel; the reason for that is the podcast has slides, and honestly the slides are incredibly important, to the point where I think this media is best represented in video form. The hosts are funny, socialist, and infrastructure-improvement fans, and I really enjoy their breakdown of various disasters. Sometimes the things they talk about are discrete events, like the Station nightclub fire. Other episodes they talk about systemic disasters, like why we don't have good trains or more nuclear power.
+
+If you're the kind of person who deep-dives into wikipedia about obscure topics, you're bound to like this show, and I heartily recommend it.
