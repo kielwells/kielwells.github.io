@@ -1,0 +1,5 @@
+# American, Unexceptional
+
+In the short-sighted drive to ensure American hegemony over the rest of the world via vaccine diplomacy, the US will likely end up reducing ourselves to irrelevance in the long term. As countries with better perspectives on world health and safety develop vaccines, such as Cuba or [China](https://www.nytimes.com/live/2021/05/07/world/covid-vaccine-coronavirus-cases/who-covid-sinopharm-vaccine), it seems clear they will disburse them free to the segments of the world that are currently being shut out. The credibility gained from this, specifically by China, will likely be enough to convince countries typically exploited by the Global North to exert some back-pressure against their own exploitation to build stronger relationships with China instead. World leaders will see a large up-and-coming nation like China providing needed help for what seems like altruistic reasons and contrast that with the US’s behavior, which is more consistently “fuck you, pay me”, and think, “why bother with them, again?”
+
+The senescence of our leaders in this gerontocracy inevitably will lead to our global demotion, and we will deserve it, whole-heartedly. 
