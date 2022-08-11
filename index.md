@@ -1,1 +1,1 @@
-Long twitter threads about politics are bad. Long, ranty blog posts about politics are slightly less bad.
+I'd rather post here than on twitter/FB/IG/etc. Thanks!
