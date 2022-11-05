@@ -9,3 +9,5 @@ Right now, the git repository this is based on lives on an iCloud Drive folder t
 Maybe VSCode will work, though? It's got a nice little file browser on the left side and seems to automagically allow me to update files where appropriate.
 
 Whatever I do, I need to find a way to convince myself to write more on a blog rather than on stupid internet platforms I don't or can't own, going forward.
+
+At least this has an edit capability, lol.
