@@ -7,3 +7,5 @@ I'm a wanna-be tech guy, but I don't much pay attention to tech anymore. I'm a w
 I always need to read more fiction books, and play more interesting single-player games.
 
 Recommend me something!
+
+You can also find me on <link rel="me" href="https://mastodon.social/@kielwells">Mastodon here.</link>
