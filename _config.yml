@@ -13,6 +13,9 @@ github_username: kielwells
 # Email and twitter are optional:
 email: kiel.wells@me.com
 twitter_username: kielwells
+mastodon:
+  username: kielwells
+  instance: mastodon.social
 
 # Set this to true to get LaTeX math equation support
 use_math:
@@ -41,9 +44,3 @@ kramdown:
   auto_ids: true
   hard_wrap: false
   syntax_highlighter: rouge
-
-mastodon:
-  username: kielwells
-  instance: mastodon.social
-
-  <a rel="me" href="https://mastodon.social/@kielwells">Mastodon</a>
