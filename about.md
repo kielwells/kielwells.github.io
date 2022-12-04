@@ -8,4 +8,6 @@ I always need to read more fiction books, and play more interesting single-playe
 
 Recommend me something!
 
-You can also find me on <link rel="me" href="https://mastodon.social/@kielwells">Mastodon here.</link>
+You can also find me on Mastodon @kielwells@mastodon.social.
+
+<a rel="me" href="https://mastodon.social/@kielwells">Mastodon</a>
