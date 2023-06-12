@@ -1,6 +1,6 @@
 # Guess Not
 
-I definitely mis-read the situation around twitter vis-a-vis [this post](kielwells.com/2022-10-31-run away.md). I never would have expected that a blue check mostly now signifies the presence of a complete idiot, while all the formerly verified people I followed ran away from the verification process post-haste.
+I definitely mis-read the situation around twitter vis-a-vis [this post](https://kielwells.com/2022/10/31/run-away.html). I never would have expected that a blue check mostly now signifies the presence of a complete idiot, while all the formerly verified people I followed ran away from the verification process post-haste.
 
 It is useful to use the blue checks as an identifier now of who I should be blocking by default rather than having to analyze their posts to determine it, so that's nice.
 
