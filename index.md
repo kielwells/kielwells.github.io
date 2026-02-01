@@ -1,1 +1,3 @@
-I'd rather post here than on twitter/FB/IG/etc. Thanks!
+Posting on my own blog is probably a skill I should have, as every social media network devolves into dumb misery farms, so here I am! Ideally I end up posting something good here but in the mean time please enjoy my mediocrity.
+
+<a rel=“me” href=“https://mastodon.social/@kielwells”>Mastodon</a>
