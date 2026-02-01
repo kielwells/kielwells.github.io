@@ -11,8 +11,8 @@ description: Home on the internet for any lengthy ruminations.
 github_username: kielwells
 
 # Email and twitter are optional:
-email: kiel.wells@me.com
-twitter_username: kielwells
+email: hello@kielwells.com
+twitter_username:
 mastodon:
   username: kielwells
   instance: mastodon.social
